@@ -134,9 +134,9 @@ async function loading () {
 var genalpa = [
 "Dark-Love-MD V2",
 "Bug Bot",
-"In Progress"
+"Dark-Love-MD-V2-X-Crash-Bug-Bot"
 ]
-let { key } = await Zynxzoo.sendMessage(m.chat, {text: 'Dark-Love-MD V2'})
+let { key } = await Zynxzoo.sendMessage(m.chat, {text: 'Zynxzoo'})
 
 const pickRandom = (arr) => {
 return arr[Math.floor(Math.random() * arr.length)]
